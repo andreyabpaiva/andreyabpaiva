@@ -1,8 +1,8 @@
 <h2 align="left">Hi 👋! My name is Andreya</h2>
 
-<h3>Welcome to my project collection</h3>
+<h3>🔍 Welcome to my project collection </h3>
 
-<h4>These are the technologies that I´m currently using</h4>
+<h4>These are the technologies I´m currently using</h4>
 
 ###
 
