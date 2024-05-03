@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Andreya</h2>
+<h2 align="left">👋 Hi! My name is Andreya</h2>
 
 <h3>🔍 Welcome to my project collection </h3>
 
