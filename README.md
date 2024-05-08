@@ -1,6 +1,5 @@
-# **Andreya Paiva**
 
-### Olá! Bem vindo ao meu perfil 👋
+# Olá! Bem-vindo ao meu perfil 👋
 
 #### INTRODUÇÃO
 Acredito que programação seja é um caminho extremamente poderoso que pode ser utilizada para solucionar muitos problemas, criar novas possibilidades e transformar o mundo ao nosso redor. Sou apaixonada pela área de desenvolvimento de software e me sinto constantemente desafiada a aprender e crescer como profissional.
