@@ -3,10 +3,6 @@
 ### Olá! Bem vindo ao meu perfil 👋
 
 #### INTRODUÇÃO
-Minha paixão por tecnologia começou ainda na no ensino médio quando comecei a me aprofundar sobre conhecimentos computacionais no geral. Essa fascinação me levou a ingressar na Universidade Federal do Pará no curso de **Ciência da Computação**, onde iniciei oficialmente minha jornada como programadora há dois anos.
-
-Desde então, venho me dedicando a aprimorar minhas habilidades e explorar diversas áreas da computação. Ao longo dessa jornada, tive a oportunidade de acumular experiência em diferentes tecnologias, como por exemplo: uso de **Digital Twin no contexto de Redes Definidas por software** e atuação prática em **Automação Bancária**.
-
 Acredito que programação seja é um caminho extremamente poderoso que pode ser utilizada para solucionar muitos problemas, criar novas possibilidades e transformar o mundo ao nosso redor. Sou apaixonada pela área de desenvolvimento de software e me sinto constantemente desafiada a aprender e crescer como profissional.
 
 #### TECNOLOGIAS QUE UTILIZO
