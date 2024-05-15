@@ -34,8 +34,6 @@
 | ----------- | ----------- |
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andreyabpaiva&theme=transparent&bg_color=DAA4C1&border_color=DAA4C1&show_icons=true&icon_color=E21481&title_color=5E0836&text_color=7E164D)
-
 #### CONTATO 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreya-paiva-0438252a2/)
