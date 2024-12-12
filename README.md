@@ -18,4 +18,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/andreya-paiva-0438252a2/) 
 
 ##
-![download-ezgif com-resize (1)](https://github.com/andreyabpaiva/andreyabpaiva/assets/144064928/d626ef2f-a233-4492-9582-4c7e6d026516)
