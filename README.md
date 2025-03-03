@@ -15,6 +15,6 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/andreya-paiva-0438252a2/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreya-paiva-0438252a2/) 
 
 ##
